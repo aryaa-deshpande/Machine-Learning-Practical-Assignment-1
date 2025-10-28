@@ -21,7 +21,7 @@ data/*.xlsx
 data/*.json
 
 # --- Reports and generated outputs ---
-*.pdf
+
 *.docx
 *.rtf
 *.html
