@@ -1,0 +1,35 @@
+a. What is the effect of past failures on G3?
+    ->  Coefficient = -1.854
+        This means that for each additional past failures, G3 - which is the final grade - decreases by approximately 1.85 points on average.
+
+        Insights:
+        Students who failed in previous years tend to struggle more in their final exams. The strong negative coefficient for failures means that - academic history is a very strong predictor for future perfomances.
+
+
+b. Does socializing affect exam performance?
+    ->  Coefficient = -0.42
+        Each one-step increase in "goout" - on the 1-5 scale, results in the reduction of the final grade by 0.42 points.
+
+        Insights:
+        This suggests that, although the decline is less, the more the child goes out / socializes, the more their performance is affected negatively, likely because they are spending time on activities other than studying.
+
+
+c. How does parental education impact final grades?
+    ->  Mother's Education Coefficient (Medu) = +0.47 
+        Father's Education Coefficient (Fedu) = -0.149
+        Mother's education has a positive correlation to the child's grades, while the father's education has a negative correlation on the child's grades.
+
+        Insights:
+        The positive coefficient for Medu suggests that, the mother's education has a positive effect on the child's performace and grades and the negative coefficient for Fedu suggests that there is minimal influence of the father's education on the child's performance and that the fathers are not playing an active or even positive role in the education of the children.
+
+
+d. Does being in a rural environment help with grades?
+    ->  Address U Coefficient = +0.34
+        Avg G3 for Rural = 9.51
+        Avg G3 for Urban = 10.6
+        Urban students scored slightly higher than rural students.
+
+        Insights:
+        Although the gap is less, the positive coefficient for the urban address suggests that students living in urban locations performed better in school and therefore, students living in rural locations did not perform as well. This is probably because children living in urban locations might have access to better resources that would be helping their grades, while students in rural location may not have access to such resources.
+
+    
